@@ -1,0 +1,8 @@
+name = "NanStats"
+uuid = "7b731668-acc2-11ea-1ca0-7909b71991ef"
+authors = ["Juan Carlos Cuevas Bautista <juancuevas.bautista@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
